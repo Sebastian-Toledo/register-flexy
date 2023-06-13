@@ -2,13 +2,9 @@ import {
   Button,
   Flex,
   Heading,
-  Icon,
-  FormControl,
-  Image,
   Input,
   InputGroup,
   InputRightElement,
-  InputLeftElement,
   Text,
   Link,
   Show,
@@ -17,7 +13,7 @@ import {
 import { HiOutlineEye, HiOutlineEyeSlash } from "react-icons/hi2";
 import { ReactComponent as MyIcon } from "./icono.svg";
 import { useState, useRef } from "react";
-import { Form, useFormik } from "formik";
+import { useFormik } from "formik";
 import * as yup from "yup";
 
 const FormRegister = () => {

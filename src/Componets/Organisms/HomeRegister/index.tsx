@@ -1,4 +1,4 @@
-import { Flex, Hide, Show } from "@chakra-ui/react";
+import { Flex, Hide } from "@chakra-ui/react";
 import FormRegister from "../../Molecules/FormRegister";
 import ImagenBG from "../../Atoms/ImagenBG";
 import NavBar from "../../Molecules/NavBar";
