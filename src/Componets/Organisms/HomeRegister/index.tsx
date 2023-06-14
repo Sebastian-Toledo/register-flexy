@@ -15,7 +15,7 @@ const HomeRegister = () => {
           <FormRegister />
         </Flex>
       </Flex>
-      <Hide breakpoint="(max-width: 375px)">
+      <Hide breakpoint="(max-width: 894px)">
         <Flex w="55%">
           <ImagenBG />
         </Flex>
